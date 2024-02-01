@@ -1,0 +1,19 @@
+{
+    "name": "minzord/bourse",
+    "type": "project",
+    "require": {
+        "scheb/yahoo-finance-api": "^4.8"
+    },
+    "license": "BSD3",
+    "autoload": {
+        "psr-4": {
+            "Minzord\\Bourse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florian Blanchet",
+            "email": "contact@minzord.fr"
+        }
+    ]
+}
